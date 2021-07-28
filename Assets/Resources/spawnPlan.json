@@ -1,0 +1,13 @@
+{
+    "SpawnList": [
+        {
+            "startPoint": "StartPoint_4",
+            "characterCount": "10",
+            "destinationPoint": "DestinationPoint_4",
+            "TimeHour": "11",
+            "TimeMinute": "24",
+            "TimeSeconds": "35",
+            "percentFemales": "0"
+        }
+    ]
+}
