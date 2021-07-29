@@ -1,2 +1,2 @@
-# vivid-framework-implementation-
-Implementation Examples of the Vivid Framework
+# Vivid-Framework-Implementation Project
+Implementation Examples of the [Vivid Framework](https://github.com/moritzhckr/Vivid-Framework)
