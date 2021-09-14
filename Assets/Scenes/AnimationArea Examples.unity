@@ -751,7 +751,7 @@ MonoBehaviour:
   AnimationNames:
   - Waving Gesture
   animationLayer: 1
-  showAreaMesh: 0
+  showAreaMesh: 1
 --- !u!65 &949983015
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -946,7 +946,7 @@ MonoBehaviour:
   AnimationNames:
   - WinPose
   animationLayer: 1
-  showAreaMesh: 0
+  showAreaMesh: 1
 --- !u!65 &1061708525
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1580,7 +1580,7 @@ MonoBehaviour:
   AnimationNames:
   - DoTheDance
   animationLayer: 1
-  showAreaMesh: 0
+  showAreaMesh: 1
 --- !u!65 &1969182094
 BoxCollider:
   m_ObjectHideFlags: 0
